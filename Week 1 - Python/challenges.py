@@ -1,4 +1,6 @@
 # Write a recursive function to print the Fibonacci sequence: f(n)=f(n-1)+f(n-2)
+# f(1) = 1
+# f(2) = 1
 
 # Create a dictionary to hold 4 items. Reverse the dictionary using a loop. Set the dictionary back to its original order using slicing.
 
